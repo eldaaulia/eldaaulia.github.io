@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey",
+  "name": "Eldaa",
+  "greetingText": "it's a special day isn't it?",
+  "wishText": "I hope you are always healthy and become a better person ;)",
+  "imagePath": "img/lydia2.png",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realized, I can't do anything",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "it's your special day",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
